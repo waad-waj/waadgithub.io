@@ -1,1 +1,1 @@
-# waadgithub.io
+# waad.github.io
